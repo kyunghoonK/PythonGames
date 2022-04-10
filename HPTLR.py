@@ -1,4 +1,5 @@
 # High_point_to_low Ratio
+
 def HR(a, b):
     return (a - b)/a * 100
 
