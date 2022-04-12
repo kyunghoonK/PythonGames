@@ -105,6 +105,3 @@ while game_on:
 screen.onscreenclick()
 
 
-
-
-
